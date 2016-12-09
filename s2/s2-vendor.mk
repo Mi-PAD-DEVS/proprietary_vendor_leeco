@@ -18,10 +18,13 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/leeco/s2/proprietary/bin/alipayclient:system/bin/alipayclient \
     vendor/leeco/s2/proprietary/bin/alipayd:system/bin/alipayd \
+    vendor/leeco/s2/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/leeco/s2/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/leeco/s2/proprietary/bin/cnd:system/bin/cnd \
     vendor/leeco/s2/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
     vendor/leeco/s2/proprietary/bin/dpmd:system/bin/dpmd \
+    vendor/leeco/s2/proprietary/bin/dun-server:system/bin/dun-server \
+    vendor/leeco/s2/proprietary/bin/ftmdaemon:system/bin/ftmdaemon \
     vendor/leeco/s2/proprietary/bin/gx_fpcmd:system/bin/gx_fpcmd \
     vendor/leeco/s2/proprietary/bin/gx_fpd:system/bin/gx_fpd \
     vendor/leeco/s2/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
@@ -45,9 +48,11 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/bin/radish:system/bin/radish \
     vendor/leeco/s2/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/leeco/s2/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
+    vendor/leeco/s2/proprietary/bin/ssr_setup:system/bin/ssr_setup \
     vendor/leeco/s2/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
     vendor/leeco/s2/proprietary/bin/tftp_server:system/bin/tftp_server \
     vendor/leeco/s2/proprietary/bin/time_daemon:system/bin/time_daemon \
+    vendor/leeco/s2/proprietary/bin/wfdservice:system/bin/wfdservice \
     vendor/leeco/s2/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/leeco/s2/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
     vendor/leeco/s2/proprietary/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/msm8952-tomtom-snd-card/MTP_WCD9330_Bluetooth_cal.acdb \
